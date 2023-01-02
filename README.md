@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Olosko23
-- 👀 I’m interested in Front End Dev Projects
-- 🌱 I’m currently learning HTML CSS JavaScript and React
-- 💞️ I’m looking to collaborate on React and Next projects
+- 👀 I’m interested in Frontend Projects
+- 🌱 I’m currently learning React
+- 🌱 I’m currently practising on Javascript, Tailwind and MUI
+- 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me email @oloogeorge633@gmail.com Whatsapp: +254799590711
 
 <!---
