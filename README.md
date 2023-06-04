@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Full Stack Development - MERN Stack
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='top'>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Olosko23&label=Profile%20views&color=0e75b6&style=flat" alt="olosko23" /> </p>
+
 
 Let's connect:
 
@@ -31,7 +33,6 @@ Let's connect:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express js" alt="express js" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
@@ -39,6 +40,11 @@ Let's connect:
     
   
 </div>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Olosko23&show_icons=true&locale=en&layout=compact" alt="olosko23" /></p><br>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Olosko23&show_icons=true&locale=en" alt="olosko23" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Olosko23" alt="olosko23" /></p>
+
+
 
 <!---
 Olosko23/Olosko23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
