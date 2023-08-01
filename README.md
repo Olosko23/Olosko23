@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Olosko23
-- 👀 I’m interested in Frontend Projects
 - 🌱 I’m currently learning Full Stack Development - MERN Stack
 
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='top'>
