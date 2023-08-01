@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olosko23
 - 🌱 I’m currently learning Full Stack Development - MERN Stack
 
-/*<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='top'>*/
+*<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='top'>*
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Olosko23&label=Profile%20views&color=0e75b6&style=flat" alt="olosko23" /> </p>
 
 
