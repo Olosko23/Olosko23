@@ -18,6 +18,8 @@ Let's connect:
   </a>
 </div>
 
+
+
  Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -36,7 +38,8 @@ Let's connect:
         <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
 
     
-  
+  [![An image of @olosko23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/olosko23)](https://holopin.io/@olosko23)
+
 </div>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Olosko23&show_icons=true&locale=en&layout=compact" alt="olosko23" /></p><br>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Olosko23&show_icons=true&locale=en" alt="olosko23" /></p>
